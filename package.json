@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator app",
+  "main": "bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Farid Babayev",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.1",
+    "jquery": "^3.3.1"
+  }
+}
